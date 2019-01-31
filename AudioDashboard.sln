@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioDashboard", "AudioDashboard\AudioDashboard.csproj", "{43DEF169-B16C-4634-9D16-BBF6865D9DBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43DEF169-B16C-4634-9D16-BBF6865D9DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43DEF169-B16C-4634-9D16-BBF6865D9DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43DEF169-B16C-4634-9D16-BBF6865D9DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43DEF169-B16C-4634-9D16-BBF6865D9DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7DA0046-C4CD-4503-A4E0-BB280EBC8CE1}
+	EndGlobalSection
+EndGlobal
